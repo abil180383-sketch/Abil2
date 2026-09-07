@@ -1,0 +1,6 @@
+{
+  "name": "Don Rido - Дәмді Донер & Fast Food Астана",
+  "description": "Астанадағы ең дәмді жарты метрлік (50 см) донерлер, комбо сеттер және фастфуд. 24/7 үзіліссіз, 100% ҚМДБ Халал сертификатталған.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
